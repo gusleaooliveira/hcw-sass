@@ -1,0 +1,26 @@
+{
+  "name": "hcw-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.32.8"
+  },
+  "scripts": {
+    "dev": "node_modules/sass/sass.js --watch sass/main.scss docs/css/estilo.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusleaooliveira/hcw-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusleaooliveira/hcw-sass/issues"
+  },
+  "homepage": "https://github.com/gusleaooliveira/hcw-sass#readme"
+}
